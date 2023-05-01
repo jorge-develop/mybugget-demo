@@ -1,5 +1,10 @@
 # Budget Tracking App
 
+<img width="388" alt="budget" src="https://user-images.githubusercontent.com/132091515/235497055-ad79e10b-172a-4520-b44f-28bfae5d838d.png">
+ 
+[Check out my DEMO CLICK HERE](https://exquisite-blancmange-20af30.netlify.app).
+
+
 I created a budget app using **React.js** to track and manage personal finances. It allows users to record their income and expenses, view their transaction history, and track their spending over time.
 
 ## features implemented
